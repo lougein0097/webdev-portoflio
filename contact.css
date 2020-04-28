@@ -1,0 +1,29 @@
+#contact_form {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#contact_form img {
+	float: left;
+	width: 50%;
+	height: 200px;
+	margin-right: 5%;
+}
+
+#contact_form input {
+	margin-bottom: 3%;
+}
+
+#contact_form #text {
+	background-color: lightpink;
+	margin-top: 5%;
+	width: 35%;
+	height: 150px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+body{
+    background-color: lightgrey;
+}
+

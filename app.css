@@ -1,0 +1,33 @@
+#description {
+	background-color: pink;
+	margin-top: 5%;
+	width: 70%;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#description img {
+	/*display: block;*/
+	/*margin: 5% auto 0;top left/right bottom*/
+	/*width: 10%;*/
+	height: 100%;
+	float: left;
+	padding-right: 10px;
+}
+
+p {
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1{
+    background-color: pink;
+    
+}
+
+h3 {
+    text-align: center;
+    padding-top: 10px;
+}
+
